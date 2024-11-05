@@ -11,8 +11,8 @@ Course: ICS 108 - Object-Oriented Programming
 
 ## Features
 - Add questions and their answers
-- View questions and the answers
-- Edit questions and answers
-- Delete questions and answers
+- View questions
+- Edit questions
+- Delete questions
 - Questions saved to a local txt file
-- Questions and answer saved on exit
+- Questions and answers saved on exit
