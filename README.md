@@ -1,5 +1,6 @@
 # Quiz-Bank-Project
 A small JavaFX project showcasing a simple quiz bank program for teachers.
+<br>
 Course: ICS 108 - Object-Oriented Programming
 
 
